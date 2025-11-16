@@ -20,7 +20,9 @@
 ## 🧠 O mnie
 
 🎯 Pasjonat programowania oraz nowych technologii.
+
 🧩 Uwielbiam tworzyć projekty, które przydają się w życiu codziennym.
+
 💡 Ciągle poszukuję nowych wyzwań i uczę się, aby rozwijać się jako programista.
 
 ---
